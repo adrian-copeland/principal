@@ -1,3 +1,6 @@
 [submodule "src/sub_modulo_1"]
 	path = src/sub_modulo_1
 	url = https://github.com/adrian-copeland/sub_modulo_1.git
+	branch = main ###a que rama apunta
+	update = rebase ###esto reorganiza los commits, usa orden cronologico
+    #### esto lo tengo que arreglar
