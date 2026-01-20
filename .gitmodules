@@ -1,0 +1,3 @@
+[submodule "src/sub_modulo_1"]
+	path = src/sub_modulo_1
+	url = https://github.com/adrian-copeland/sub_modulo_1.git
